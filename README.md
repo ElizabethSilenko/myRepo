@@ -1,9 +1,2 @@
-My 1st attemp# myRepo     ewdew   jgjhgjhgjhgjhhj
-
-
-kjhhkj
-
-kjhhk
-
-
-Denis code
+My 2nd attemp# myRepo
+ 
